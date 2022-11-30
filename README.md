@@ -73,3 +73,59 @@ Let's understand these events in brief:
 **[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
 ---
+
+### 5. What are Scrum Values?
+
+Following are the 5 Scrum values:
+* Courage
+* Focus
+* Openness
+* Respect
+* Commitment
+
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+
+---
+
+### 6. What are Scrum Principles?
+
+* Empiricism
+  - Transparency
+  - Inspection
+  - Adaptation
+* Base - Trust & Courage
+
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+
+---
+
+### 7. What are Definition of Done?
+
+Shared understanding within the scrum team members on what it means for work to be completed, to ensure transparency.
+
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+
+---
+
+### 8. What is Timeboxing?
+
+Timeboxing is maximum allowed time for an event in Scrum.
+
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+
+---
+
+### 9. What are Scrum Rules?
+
+Following are the Scrum Rules:
+* Sprint Goal
+* All events are timeboxed
+* Potentially releasable increment at the end of each Sprint
+* No changes during the Sprint that endanger the Sprint Goal
+* No changes in Sprint length during execution
+* Only Product Owner can cancel the Sprint
+* One Product one Product Owner and one Product Backlog
+
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+
+---
