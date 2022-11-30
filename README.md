@@ -25,17 +25,11 @@ In Scrum, there are 3 roles as follows:
 * Development Team
 * Scrum Master
 
-**Product Owner:**
+Let's understand what do they do:
 
-The Product Owner is accountable for the success of the product, maximizing the ROI.
-
-**Development Team:**
-
-The Development Team is accountable for delivering potentially releasable increment of DONE product at the end of every Sprint.
-
-**Scrum Master:**
-
-A Scrum Master is accountable for building high performing team(s), facilitating their consensus and removing impediments.
+| Product Owner        | Development Team      | Scrum Master      | 
+| ------------- |-------------|-------------| 
+| The Product Owner is accountable for the success of the product, maximizing the ROI. | The Development Team is accountable for delivering potentially releasable increment of DONE product at the end of every Sprint. | A Scrum Master is accountable for building high performing team(s), facilitating their consensus and removing impediments. |
 
 **[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
