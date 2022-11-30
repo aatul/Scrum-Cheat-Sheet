@@ -14,7 +14,7 @@ Scrum guide for beginners
 
 Scrum is a process framework within which develop, deliver and maintain complex products iteratevely and incrementally while controlling the risks.
 
-**[Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
 ---
 
@@ -37,7 +37,7 @@ The Development Team is accountable for delivering potentially releasable increm
 
 A Scrum Master is accountable for building high performing team(s), facilitating their consensus and removing impediments.
 
-**[Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
 ---
 
@@ -53,6 +53,6 @@ There are 3 Scrum Artifacts to raise transparency, which are as follows:
 | To formulate the Product Vision and desire of the stake holders. Raise transparency by presenting the perceived value and roadmap for the product.             | Direction and Focus for the scrum team for achieving the Sprint Goal. Raise transparency within the Scrum Team. | A working product to release to the Production that formulate the Sprint Goal. Raise transparency within the Scrum Team and Stakeholders. |
 
 
-**[Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
 ---
