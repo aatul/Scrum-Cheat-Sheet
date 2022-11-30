@@ -2,7 +2,7 @@
 Scrum guide for beginners
 
 ### Table of Contents
-| Sr.No.        | Question      | 
+| Sr. No.        | Question      | 
 | ------------- |-------------| 
 | 1             |[What is Scrum?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#1-what-is-scrum) | 
 | 2             |[What are Scrum roles?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#2-what-are-scrum-roles) | 
