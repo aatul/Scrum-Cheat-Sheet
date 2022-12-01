@@ -141,9 +141,19 @@ Following are the Scrum Rules:
 Following are the key Scrum Terminologies:
 
 * **Empiricism :** Process control type in which only the past is accepted as certain and in which decisions are based on observation, experience and experimentation. Empiricism has three pillars: Transparency, Inspection and Adaptation.
+
 * **Scrum Board :** A physical board to visualize information for and by the Scrum Team, often used to manage Sprint Backlog. Scrum Boards are an optional implementation within the Scrum to make information visible.
 
+* **Techncl Debt :** The typically unpredictable overhead of maitaining the product, often caused by less than ideal design decisions, contributing to the total cost of ownership. May exist unintentionally in the increment or introduced purposefully to realize value earlier.
+
+* **Self-organization :** The management principle that teams autonomously orgnize their work. Self-organiation happens within boundries and against given goals. Teams choose how best to accomplish their work, rather than being directed by the others outside the team.
+
+* **Product Backlog Refinement :** The activity in a Sprint through which the Product Owner and the Development Teams add granularity to the Product Backlog.
+
+* **Forecast (of functionality) :** The selection of items from the Product Backlog a Development Team deems feasible for implemetation in a Sprint.
 
 **[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
 ---
+
+I hope this Scrum cheat sheet has helped you understand the Scrum basics.
