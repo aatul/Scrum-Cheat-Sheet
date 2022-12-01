@@ -8,6 +8,12 @@ Scrum guide for beginners
 | 2             |[What are Scrum roles?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#2-what-are-scrum-roles) | 
 | 3             |[What are Scrum Artifacts?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#3-what-are-scrum-artifacts) | 
 | 4             |[What are Scrum Events?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#4-what-are-scrum-events) | 
+| 5             |[What are Scrum Values?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#5-what-are-scrum-values) | 
+| 6             |[What are Scrum Principles?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#6-what-are-scrum-principles) | 
+| 7             |[What are Definition of Done?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#7-what-are-definition-of-done) | 
+| 8             |[What is Timeboxing?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#8-what-is-timeboxing) | 
+| 9             |[What are Scrum Rules?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#9-what-are-scrum-rules) | 
+| 10             |[Scrum Terminologies?](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#10-scrum-terminologies) | 
 
 ---
 
