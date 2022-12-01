@@ -129,3 +129,15 @@ Following are the Scrum Rules:
 **[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
 
 ---
+
+### 10. Scrum Terminologies?
+
+Following are the key Scrum Terminologies:
+
+* **Empiricism :** Process control type in which only the past is accepted as certain and in which decisions are based on observation, experience and experimentation. Empiricism has three pillars: Transparency, Inspection and Adaptation.
+* **Scrum Board :** A physical board to visualize information for and by the Scrum Team, often used to manage Sprint Backlog. Scrum Boards are an optional implementation within the Scrum to make information visible.
+
+
+**[:arrow_up:Back to Top](https://github.com/aatul/Scrum-Cheat-Sheet/blob/master/README.md#table-of-contents)**
+
+---
